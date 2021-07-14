@@ -1,16 +1,13 @@
-### Hi there 👋
+# Strawndri - Andrieli Luci 🌈
 
-<!--
-**strawndri/strawndri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! My name's Andrieli and I 16 years old. I enjoy learning about anything, nowadays I'm focused on programming languages ✨ 
 
-Here are some ideas to get you started:
+### I’m learning Front-End (HTML, CSS and Javascript) and Python!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+- [Instagram](https://instagram.com/andricornia)
+- [LinkedIn](https://www.linkedin.com/in/andrieli-luci)
+
+
+
+
