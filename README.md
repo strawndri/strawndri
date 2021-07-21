@@ -7,6 +7,10 @@
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/andrieli-luci)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawndri&show_icons=true&theme=radical&hide=contribs,issues,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
