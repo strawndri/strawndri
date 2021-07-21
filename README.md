@@ -5,7 +5,6 @@
 ### I’m learning Front-End (HTML, CSS and Javascript) and Python!
 
 ### Connect with me:
-- [Instagram](https://instagram.com/andricornia)
 - [LinkedIn](https://www.linkedin.com/in/andrieli-luci)
 
 
