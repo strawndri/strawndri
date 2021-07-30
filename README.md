@@ -2,15 +2,19 @@
 
 ## Hello! My name's Andrieli and I 16 years old. I enjoy learning about anything, nowadays I'm focused on programming languages ✨ 
 
-### I’m learning Front-End (HTML, CSS and Javascript) and Python!
+<div> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=strawndri&show_icons=true&theme=radical&hide=contribs,issues,prs">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact&theme=radical">
+</div>
 
-### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/andrieli-luci)
+#
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawndri&show_icons=true&theme=radical&hide=contribs,issues,prs)
-
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact&theme=radical)
-
+<div>
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
 
 
 
