@@ -3,8 +3,8 @@
 ## Hello! My name's Andrieli and I 16 years old. I enjoy learning about anything, nowadays I'm focused on programming languages ✨ 
 
 <div> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=strawndri&show_icons=true&theme=radical&hide=contribs,issues,prs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact&theme=radical">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=strawndri&show_icons=true&theme=radical&hide=contribs,issues,prs">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact&theme=radical">
 </div>
 
 #
