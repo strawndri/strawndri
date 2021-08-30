@@ -3,7 +3,7 @@
 ## Hello! My name's Andrieli and I'm 16 years old. I enjoy learning about anything, nowadays I'm focused on programming languages ✨ 
 
 <div> 
-  <img height="130em" src="">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=strawndri&show_icons=true&theme=radical&hide=contribs,issues,prs">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact&theme=radical">
 </div>
 
