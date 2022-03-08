@@ -19,18 +19,18 @@ accessible website.
 
 ## ✨ Skills ✨
 <div>
+  <img height="30em" src="https://img.shields.io/badge/HTML5-B3225E?style=for-the-badge&logo=html5&logoColor=F2F2F2">
   <img height="30em" src="https://img.shields.io/badge/CSS3-B3225E?style=for-the-badge&logo=css3&logoColor=F2F2F2">
   <img height="30em" src="https://img.shields.io/badge/Sass-B3225E?style=for-the-badge&logo=sass&logoColor=F2F2F2" />
-  <img height="30em" src="https://img.shields.io/badge/HTML5-B3225E?style=for-the-badge&logo=html5&logoColor=F2F2F2">
-  <img height="30em" src="https://img.shields.io/badge/JavaScript-B3225E?style=for-the-badge&logo=javascript&logoColor=F2F2F2">
   <img height="30em" src="https://img.shields.io/badge/Python-B3225E?style=for-the-badge&logo=python&logoColor=F2F2F2">
 </div>
 
 ## ✨ Currently Learning ✨
 <div>
-  <img height="30em" src="https://img.shields.io/badge/Node.js-B3225E?style=for-the-badge&logo=node.js&logoColor=F2F2F2" /> 
+  <img height="30em" src="https://img.shields.io/badge/JavaScript-B3225E?style=for-the-badge&logo=javascript&logoColor=F2F2F2">
   <img height="30em" src="https://img.shields.io/badge/React-B3225E?style=for-the-badge&logo=react&logoColor=F2F2F2" /> 
-  <img height="30em" src="https://img.shields.io/badge/TypeScript-B3225E?style=for-the-badge&logo=typescript&logoColor=F2F2F2" /> 
+  <img height="30em" src="https://img.shields.io/badge/TypeScript-B3225E?style=for-the-badge&logo=typescript&logoColor=F2F2F2" />
+  <img height="30em" src="https://img.shields.io/badge/Java-B3225E?style=for-the-badge&logo=java&logoColor=F2F2F2"
 </div>
 
 
