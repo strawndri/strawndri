@@ -6,7 +6,7 @@ on improving my skills in web development. However, I also like to study design 
 accessible website.</p>
 
 <div> 
-  <img align="right" width="530em" src="https://64.media.tumblr.com/587156531ea4a91473adeadbc6af0e13/b865992b21c858ce-23/s640x960/85438340b94ece05f9ef87e75e77bdff7382fa87.gifv" />
+  <img align="right" width="500em" src="https://64.media.tumblr.com/587156531ea4a91473adeadbc6af0e13/b865992b21c858ce-23/s640x960/85438340b94ece05f9ef87e75e77bdff7382fa87.gifv" />
   
   <h2>✨ Skills ✨</h2>
   <div>
