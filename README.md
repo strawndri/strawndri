@@ -24,8 +24,8 @@ accessible website.</p>
     <img height="30em" src="https://img.shields.io/badge/TypeScript-8f3194?style=for-the-badge&logo=typescript&logoColor=F2F2F2" />
     <img height="30em" src="https://img.shields.io/badge/Java-8f3194?style=for-the-badge&logo=java&logoColor=F2F2F2" />
   </div>
-
-  <h2 align="center">✨ Contact ✨</h2>
+  
+  <hr>
   <div align="center">
     <a href="mailto:andrieliluci@gmail.com">
       <img height="30em" src="https://img.shields.io/badge/Gmail-943169?style=for-the-badge&logo=gmail&logoColor=f2f2f2"/> 
