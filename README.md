@@ -1,9 +1,8 @@
-<h1> Strawndri - Andrieli Luci 🌈 </h1>
+# Strawndri - Andrieli Luci 🌈 </h1>
 
-<h2> ✨ About me ✨ </h2>
-<p> Hello! My name is <strong>Andrieli</strong>, I am 17. I love technology, especially programming languages. So I'm focused
-on improving my skills in web development. However, I also like to study design and main features for a good and 
-accessible website.</p>
+## ✨ About me ✨
+Hello! My name is **Andrieli**, I am 17. I love technology, especially programming languages. So I'm focused
+on improving my Python and Data Science skills. I also like to study web development.
 
 <div> 
   
@@ -20,9 +19,10 @@ accessible website.</p>
 
   <h2>✨ Currently Learning ✨</h2>
   <div>
-    <img height="30em" src="https://img.shields.io/badge/JavaScript-8f3194?style=for-the-badge&logo=javascript&logoColor=F2F2F2" />
-    <img height="30em" src="https://img.shields.io/badge/React-8f3194?style=for-the-badge&logo=react&logoColor=F2F2F2" /> 
-    <img height="30em" src="https://img.shields.io/badge/TypeScript-8f3194?style=for-the-badge&logo=typescript&logoColor=F2F2F2" />
+    <img height="30em" src="https://img.shields.io/badge/scikit_learn-8f3194?style=for-the-badge&logo=scikit-learn&logoColor=F2F2F2" />
+    <img height="30em" src="https://img.shields.io/badge/SciPy-8f3194?style=for-the-badge&logo=SciPy&logoColor=F2F2F2" />
+    <img height="30em" src="https://img.shields.io/badge/Django-8f3194?style=for-the-badge&logo=django&logoColor=F2F2F2" />
+    <img height="30em" src="https://img.shields.io/badge/OpenCV-8f3194?style=for-the-badge&logo=OpenCV&logoColor=F2F2F2" />
   </div>
   
   <hr>
