@@ -14,7 +14,7 @@ Hello! My name is **Andrieli**, I am 17 and a high school student. Technology an
     <img height="30em" src="https://img.shields.io/badge/Sass-abf285?style=for-the-badge&logo=sass&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/Python-abf285?style=for-the-badge&logo=python&logoColor=22272E">
     <img height="30em" src="https://img.shields.io/badge/Figma-abf285?style=for-the-badge&logo=figma&logoColor=22272E" />
-    <img height="30em" src="https://img.shields.io/badge/GIT-f2a2b7?style=for-the-badge&logo=git&logoColor=22272E" />
+    <img height="30em" src="https://img.shields.io/badge/GIT-abf285?style=for-the-badge&logo=git&logoColor=22272E" />
   </div>
 
   <h2>✨ Currently Learning ✨</h2>
