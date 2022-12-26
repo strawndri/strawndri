@@ -1,37 +1,37 @@
-# Strawndri - Andrieli Luci 🌈 </h1>
+# Strawndri - Andrieli Luci </h1>
 
 ## ✨ About me ✨
-Hello! My name is **Andrieli**, I am 17. I love technology, especially programming languages. So I'm focused
-on improving my Python and Data Science skills. I also like to study web development.
+Hello! My name is **Andrieli**, I am 17 and a high school student. Technology and Biology do my eyes light up. Now, I work at **Alura** and I'm focused on studying Python, Data Science and Machine Learning.
 
 <div> 
   
-  <img align="right" width="320em" src="https://64.media.tumblr.com/587156531ea4a91473adeadbc6af0e13/b865992b21c858ce-23/s640x960/85438340b94ece05f9ef87e75e77bdff7382fa87.gifv" />
+  <img align="right" width="200em" src="https://thumbs.gfycat.com/RepulsiveVagueCurassow-size_restricted.gif" />
   
   <h2>✨ Skills ✨</h2>
   <div>
-    <img height="30em" src="https://img.shields.io/badge/HTML5-643194?style=for-the-badge&logo=html5&logoColor=F2F2F2">
-    <img height="30em" src="https://img.shields.io/badge/CSS3-643194?style=for-the-badge&logo=css3&logoColor=F2F2F2">
-    <img height="30em" src="https://img.shields.io/badge/Sass-643194?style=for-the-badge&logo=sass&logoColor=F2F2F2" />
-    <img height="30em" src="https://img.shields.io/badge/Python-643194?style=for-the-badge&logo=python&logoColor=F2F2F2">
-    <img height="30em" src="https://img.shields.io/badge/Figma-643194?style=for-the-badge&logo=figma&logoColor=F2F2F2" />
+    <img height="30em" src="https://img.shields.io/badge/HTML5-abf285?style=for-the-badge&logo=html5&logoColor=22272E">
+    <img height="30em" src="https://img.shields.io/badge/CSS3-abf285?style=for-the-badge&logo=css3&logoColor=22272E">
+    <img height="30em" src="https://img.shields.io/badge/Sass-abf285?style=for-the-badge&logo=sass&logoColor=22272E" />
+    <img height="30em" src="https://img.shields.io/badge/Python-abf285?style=for-the-badge&logo=python&logoColor=22272E">
+    <img height="30em" src="https://img.shields.io/badge/Figma-abf285?style=for-the-badge&logo=figma&logoColor=22272E" />
   </div>
 
   <h2>✨ Currently Learning ✨</h2>
   <div>
-    <img height="30em" src="https://img.shields.io/badge/scikit_learn-8f3194?style=for-the-badge&logo=scikit-learn&logoColor=F2F2F2" />
-    <img height="30em" src="https://img.shields.io/badge/SciPy-8f3194?style=for-the-badge&logo=SciPy&logoColor=F2F2F2" />
-    <img height="30em" src="https://img.shields.io/badge/Django-8f3194?style=for-the-badge&logo=django&logoColor=F2F2F2" />
-    <img height="30em" src="https://img.shields.io/badge/OpenCV-8f3194?style=for-the-badge&logo=OpenCV&logoColor=F2F2F2" />
+    <img height="30em" src="https://img.shields.io/badge/scikit_learn-f2a2b7?style=for-the-badge&logo=scikit-learn&logoColor=22272E" />
+    <img height="30em" src="https://img.shields.io/badge/SciPy-f2a2b7?style=for-the-badge&logo=SciPy&logoColor=22272E" />
+    <img height="30em" src="https://img.shields.io/badge/Django-f2a2b7?style=for-the-badge&logo=django&logoColor=22272E" />
+    <img height="30em" src="https://img.shields.io/badge/OpenCV-f2a2b7?style=for-the-badge&logo=OpenCV&logoColor=22272E" />
+    <img height="30em" src="https://img.shields.io/badge/GIT-f2a2b7?style=for-the-badge&logo=git&logoColor=22272E" />
   </div>
   
   <hr>
   <div align="center">
     <a href="mailto:andrieliluci@gmail.com">
-      <img height="30em" src="https://img.shields.io/badge/Gmail-943169?style=for-the-badge&logo=gmail&logoColor=f2f2f2"/> 
+      <img height="30em" src="https://img.shields.io/badge/Gmail-bf637c?style=for-the-badge&logo=gmail&logoColor=f2f2f2"/> 
     </a>
     <a href="https://www.linkedin.com/in/andrieli-luci/" target="_blank">
-      <img height="30em" src="https://img.shields.io/badge/LinkedIn-943169?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/>
+      <img height="30em" src="https://img.shields.io/badge/LinkedIn-bf637c?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/>
     </a>
   </div>  
 </div>
