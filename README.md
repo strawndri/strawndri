@@ -5,7 +5,7 @@ Hello! My name is **Andrieli**, I am 17 and a high school student. Technology an
 
 <div> 
   
-  <img align="right" width="200em" src="https://thumbs.gfycat.com/RepulsiveVagueCurassow-size_restricted.gif" />
+  <img align="right" width="400px" src="https://thumbs.gfycat.com/RepulsiveVagueCurassow-size_restricted.gif" />
   
   <h2>✨ Skills ✨</h2>
   <div>
