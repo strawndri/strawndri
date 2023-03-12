@@ -24,7 +24,6 @@ Hello! My name is **Andrieli**, I am 17 and a high school student. Technology an
     <img height="30em" src="https://img.shields.io/badge/scikit_learn-f2a2b7?style=for-the-badge&logo=scikit-learn&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/Django-f2a2b7?style=for-the-badge&logo=django&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/OpenCV-f2a2b7?style=for-the-badge&logo=OpenCV&logoColor=22272E" />
-    <img height="30em" src="https://img.shields.io/badge/SQL-f2a2b7?style=for-the-badge&logo=OpenCV&logoColor=22272E" />
   </div>
   
   <hr>
