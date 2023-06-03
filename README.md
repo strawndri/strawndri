@@ -1,7 +1,7 @@
 # Strawndri - Andrieli Luci </h1>
 
 ## ✨ About me ✨
-Hello! My name is **Andrieli**, I am 17 and a high school student. Technology and Biology do my eyes light up. Now, I work at **Alura** and I'm focused on studying Python, Data Science and Machine Learning.
+Hello! My name is **Andrieli**, I am 18 and a high school student. Technology and Biology do my eyes light up. Now, I work at **Alura** and I'm focused on studying Python, Data Science and Machine Learning.
 
 <div> 
   
