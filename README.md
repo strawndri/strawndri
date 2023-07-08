@@ -21,6 +21,7 @@ Hello! My name is **Andrieli**, I am 18 and a high school student. Technology an
 
   <h2>✨ Currently Learning ✨</h2>
   <div>
+    <img height="30em" src="https://img.shields.io/badge/PowerBI-f2a2b7?style=for-the-badge&logo=Power%20BI&logoColor=22272E"
     <img height="30em" src="https://img.shields.io/badge/Pandas-f2a2b7?style=for-the-badge&logo=pandas&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/Numpy-f2a2b7?style=for-the-badge&logo=numpy&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/scikit_learn-f2a2b7?style=for-the-badge&logo=scikit-learn&logoColor=22272E" />
