@@ -9,7 +9,7 @@
   </p>
 </div>
 </section>
-
+&nbsp;
 <section> 
   <h2>✨ Skills ✨</h2>
   <div>
