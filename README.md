@@ -17,11 +17,13 @@ Hello! My name is **Andrieli**, I am 18 and a high school student. Technology an
     <img height="30em" src="https://img.shields.io/badge/GIT-abf285?style=for-the-badge&logo=git&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/MySQL-abf285?style=for-the-badge&logo=mysql&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/PostgreSQL-abf285?style=for-the-badge&logo=postgresql&logoColor=22272E" />
+    <img height="30em" src="https://img.shields.io/badge/PowerBI-abf285?style=for-the-badge&logo=Power%20BI&logoColor=22272E" />
+    <img height="30em" src="https://img.shields.io/badge/Tableau-abf285?style=for-the-badge&logo=Tableau&logoColor=22272E" />
   </div>
 
   <h2>✨ Currently Learning ✨</h2>
   <div>
-    <img height="30em" src="https://img.shields.io/badge/PowerBI-f2a2b7?style=for-the-badge&logo=Power%20BI&logoColor=22272E"
+    <img height="30em" src="https://img.shields.io/badge/R-f2a2b7?style=for-the-badge&logo=R&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/Pandas-f2a2b7?style=for-the-badge&logo=pandas&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/Numpy-f2a2b7?style=for-the-badge&logo=numpy&logoColor=22272E" />
     <img height="30em" src="https://img.shields.io/badge/scikit_learn-f2a2b7?style=for-the-badge&logo=scikit-learn&logoColor=22272E" />
