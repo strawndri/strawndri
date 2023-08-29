@@ -34,10 +34,10 @@ Hello! My name is **Andrieli**, I am 18 and a high school student. Technology an
   <hr>
   <div align="center">
     <a href="mailto:andrieliluci@gmail.com">
-      <img height="30em" src="https://img.shields.io/badge/Gmail-bf637c?style=for-the-badge&logo=gmail&logoColor=f2f2f2"/> 
+      <img height="35em" src="https://img.shields.io/badge/Gmail-bf637c?style=for-the-badge&logo=gmail&logoColor=f2f2f2"/> 
     </a>
     <a href="https://www.linkedin.com/in/andrieli-luci/" target="_blank">
-      <img height="30em" src="https://img.shields.io/badge/LinkedIn-bf637c?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/>
+      <img height="35em" src="https://img.shields.io/badge/LinkedIn-bf637c?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/>
     </a>
   </div>  
 </div>
