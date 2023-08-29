@@ -1,11 +1,17 @@
-# Strawndri - Andrieli Luci </h1>
+<h1> Strawndri - Andrieli Luci </h1>
 
-## ✨ About me ✨
-Hello! My name is **Andrieli**, I am 18 and a high school student. Technology and Biology do my eyes light up. Now, I work at **Alura** and I'm focused on studying Python, Data Science and Machine Learning.
-
-<div> 
+<section>
+  <img align="right" width="300px" src="https://thumbs.gfycat.com/RepulsiveVagueCurassow-size_restricted.gif" />
   
-  <img align="right" width="400px" src="https://thumbs.gfycat.com/RepulsiveVagueCurassow-size_restricted.gif" />
+  <div>
+  <h2>✨ About me ✨</h2> 
+  <p>
+    Hello! My name is <b>Andrieli</b>, I am 18 and a high school student. Technology and Biology do my eyes light up. Now, I work at <b>Alura</b> and I'm focused on studying Python, Data Science and Machine Learning.
+  </p>
+</div>
+</section>
+
+<section> 
   
   <h2>✨ Skills ✨</h2>
   <div>
@@ -40,4 +46,4 @@ Hello! My name is **Andrieli**, I am 18 and a high school student. Technology an
       <img height="35em" src="https://img.shields.io/badge/LinkedIn-bf637c?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/>
     </a>
   </div>  
-</div>
+</section>
