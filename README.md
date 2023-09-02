@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About me
 
-<img src="https://i.imgur.com/Dl55YdT.gif" align="right" width="180" height="180">
+<img src="https://i.imgur.com/Dl55YdT.gif" align="right" width="150" height="150">
 
 I'm *Andrieli Gonçalves*, a High School student with a passion for Python, Data, and Biology. I revel in delving into new technologies, reading books, and dedicating time to study.
 
