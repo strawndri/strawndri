@@ -28,7 +28,7 @@ I'm *Andrieli Gonçalves*, a High School student with a passion for Python, Data
 </div>
 
 ## 📊 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact&bg_color=00000000&title_color=86d9d1&text_color=d4d2d2&hide_border=true&card_width=500px&card_height=400px)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact&bg_color=00000000&title_color=86d9d1&text_color=bfbfbf&hide_border=true&card_width=500px&card_height=400px)
 
 ## 📫 How to reach me?
 <a href="mailto:andrieliluci@gmail.com">
