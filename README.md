@@ -8,7 +8,7 @@ I'm *Andrieli Gonçalves*, a High School student with a passion for Python, Data
 
 - 🌎 From Paraná, Brazil
 - 🚀 Forum monitor at [Alura](https://www.alura.com.br/)
-- 🧠 I'm learning **Stats, Computer Vision and ETL**
+- 🧠 I'm learning **Statistic**, **Computer Vision** and **ETL**
 - 💻 I'm currently developing my final project: [Voculary](https://github.com/strawndri/tmcc-voculary)
 
 
