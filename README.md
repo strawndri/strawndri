@@ -9,7 +9,7 @@ I'm *Andrieli Gonçalves*, a High School student with a passion for Python, Data
 - 🌎 From Paraná, Brazil
 - 🚀 Forum monitor at [Alura](https://www.alura.com.br/)
 - 🧠 I'm learning **Statistic**, **Computer Vision** and **ETL**
-- ✍️ I wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery: o que é, para que serve e como utilizar](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
+- ✍️ I wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 
 ## 🧮 Skills
 <div>
