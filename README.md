@@ -8,7 +8,7 @@ I'm *Andrieli Gonçalves*, an IT technician passionate about Python, Data and Bi
 
 - 🌎 From Paraná, Brazil
 - 🚀 Forum monitor at [Alura](https://www.alura.com.br/)
-- 🧠 I'm learning **Statistic**, **Computer Vision** and **ETL**
+- 🧠 I'm learning **Data Analysis**
 - ✍️ I wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 
 ## 🧮 Skills
