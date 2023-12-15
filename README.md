@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/Dl55YdT.gif" align="right" width="150" height="150">
 
-I'm *Andrieli Gonçalves*, a High School student with a passion for Python, Data, and Biology. I revel in delving into new technologies, reading books, and dedicating time to study.
+I'm *Andrieli Gonçalves*, an IT technician passionate about Python, Data and Biology. I love delving into new technologies, reading books and dedicating time to studying.
 
 - 🌎 From Paraná, Brazil
 - 🚀 Forum monitor at [Alura](https://www.alura.com.br/)
