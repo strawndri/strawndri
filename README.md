@@ -10,7 +10,7 @@ I'm *Andrieli Gonçalves*, an IT technician passionate about Python, Data and Bi
 - 🏦 Computer Science student at UFPR
 - 🐧 Voluntary Quality Advisor in the [Ecomp](https://ecomp.co/) (Junior Computing Enterprise)
 - ⚛️ Member of [PET Computação](http://pet.inf.ufpr.br/) (Computer Tutorial Education Program)
-- 🧠 I'm learning C++ and competitive programming
+- 🧠 I'm learning Lua, C and C++
 - ✍️ I wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 
 ## 🧮 Skills
@@ -18,6 +18,7 @@ I'm *Andrieli Gonçalves*, an IT technician passionate about Python, Data and Bi
   <img height="30em" src="https://img.shields.io/badge/Javascript-e8dc66?style=for-the-badge&logo=javascript&logoColor=22272E">
   <img height="30em" src="https://img.shields.io/badge/Python-e8dc66?style=for-the-badge&logo=python&logoColor=22272E">
   <img height="30em" src="https://img.shields.io/badge/Django-e8dc66?style=for-the-badge&logo=django&logoColor=22272E" />
+  <img height="30em" src="https://img.shields.io/badge/vuejs-e8dc66?style=for-the-badge&logo=vuedotjs&logoColor=22272E" />
   <img height="30em" src="https://img.shields.io/badge/MySQL-86d9d1?style=for-the-badge&logo=mysql&logoColor=22272E" />
   <img height="30em" src="https://img.shields.io/badge/PostgreSQL-86d9d1?style=for-the-badge&logo=postgresql&logoColor=22272E" />
   <img height="30em" src="https://img.shields.io/badge/PowerBI-92bcd1?style=for-the-badge&logo=Power%20BI&logoColor=22272E" />
