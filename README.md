@@ -15,6 +15,7 @@ I'm *Andrieli Gonçalves*, an IT technician passionate about Python, Data and Bi
 
 ## 🧮 Skills
 <div>
+  <img height="30em" src="https://img.shields.io/badge/C-e8dc66?style=for-the-badge&logo=C&logoColor=22272E">
   <img height="30em" src="https://img.shields.io/badge/Javascript-e8dc66?style=for-the-badge&logo=javascript&logoColor=22272E">
   <img height="30em" src="https://img.shields.io/badge/Python-e8dc66?style=for-the-badge&logo=python&logoColor=22272E">
   <img height="30em" src="https://img.shields.io/badge/Django-e8dc66?style=for-the-badge&logo=django&logoColor=22272E" />
