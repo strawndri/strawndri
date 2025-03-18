@@ -8,9 +8,9 @@ I'm *Andrieli Gonçalves*, an IT technician passionate about Python, Data and Bi
 
 - 🌎 From Paraná, Brazil
 - 🏦 Computer Science student at UFPR
-- 🐧 Voluntary Quality Advisor in the [Ecomp](https://ecomp.co/) (Junior Computing Enterprise)
 - ⚛️ Member of [PET Computação](http://pet.inf.ufpr.br/) (Computer Tutorial Education Program)
 - 🧠 I'm learning Lua, C and C++
+- 🐧 I was a Voluntary Quality Advisor in the [Ecomp](https://ecomp.co/) (Junior Computing Enterprise)
 - ✍️ I wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 
 ## 🧮 Skills
