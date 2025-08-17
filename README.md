@@ -4,13 +4,15 @@
 
 <img src="https://i.imgur.com/Dl55YdT.gif" align="right" width="150" height="150">
 
-I'm *Andrieli Gonçalves*, an IT technician passionate about Python, Data and Biology. I love delving into new technologies, reading books and dedicating time to studying.
+I'm *Andrieli Gonçalves*, an IT technician and Computer Science student. I love data, math and being curious!
 
 - 🌎 From Paraná, Brazil
 - 🏦 Computer Science student at UFPR
 - ⚛️ Member of [PET Computação](http://pet.inf.ufpr.br/) (Computer Tutorial Education Program)
-- 🧠 I'm learning Lua, C and C++
-- 🐧 I was a Voluntary Quality Advisor in the [Ecomp](https://ecomp.co/) (Junior Computing Enterprise)
+- 🖥️ Leader of the "Computing for Immigrants" project
+- 🎈 Design Volunteer at the [Maratona Feminina de Programação](https://www.instagram.com/mfp.sbc/) (Women's Programming Marathon
+- 🧠 Studying neural networks and optimization
+- 🐧 I was a Volunteer Quality Advisor in the [Ecomp](https://ecomp.co/) (Junior Computing Enterprise)
 - ✍️ I wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 
 ## 🧮 Skills
