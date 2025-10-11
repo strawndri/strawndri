@@ -1,44 +1,23 @@
-# Hi, there! ✨
+# hi, there :)
 
-## 👩‍💻 About me
+I'm Andrieli Gonçalves, an IT technician and Computer Science student. I love data, math and being curious!
 
-<img src="https://i.imgur.com/Dl55YdT.gif" align="right" width="150" height="150">
+- Computer Science student at UFPR
+- Undergraduate research student at [CiDAMO](https://github.com/CiDAMO) learning about RAG and LLMs
+- Member of [PET Computação](http://pet.inf.ufpr.br/) (Computer Tutorial Education Program)
+- Leader of the "Computing for Immigrants" project
+- Design Volunteer at the [Maratona Feminina de Programação](https://www.instagram.com/mfp.sbc/) (Women's Programming Marathon)
+- I was a Volunteer Quality Advisor in the [Ecomp](https://ecomp.co/) (Junior Computing Enterprise)
+- I wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 
-I'm *Andrieli Gonçalves*, an IT technician and Computer Science student. I love data, math and being curious!
 
-- 🌎 From Paraná, Brazil
-- 🏦 Computer Science student at UFPR
-- ⚛️ Member of [PET Computação](http://pet.inf.ufpr.br/) (Computer Tutorial Education Program)
-- 🖥️ Leader of the "Computing for Immigrants" project
-- 🎈 Design Volunteer at the [Maratona Feminina de Programação](https://www.instagram.com/mfp.sbc/) (Women's Programming Marathon)
-- 🧠 Studying neural networks and optimization
-- 🐧 I was a Volunteer Quality Advisor in the [Ecomp](https://ecomp.co/) (Junior Computing Enterprise)
-- ✍️ I wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 
-## 🧮 Skills
-<div>
-  <img height="30em" src="https://img.shields.io/badge/C-e8dc66?style=for-the-badge&logo=C&logoColor=22272E">
-  <img height="30em" src="https://img.shields.io/badge/Javascript-e8dc66?style=for-the-badge&logo=javascript&logoColor=22272E">
-  <img height="30em" src="https://img.shields.io/badge/Python-e8dc66?style=for-the-badge&logo=python&logoColor=22272E">
-  <img height="30em" src="https://img.shields.io/badge/Django-e8dc66?style=for-the-badge&logo=django&logoColor=22272E" />
-  <img height="30em" src="https://img.shields.io/badge/vuejs-e8dc66?style=for-the-badge&logo=vuedotjs&logoColor=22272E" />
-  <img height="30em" src="https://img.shields.io/badge/MySQL-86d9d1?style=for-the-badge&logo=mysql&logoColor=22272E" />
-  <img height="30em" src="https://img.shields.io/badge/PostgreSQL-86d9d1?style=for-the-badge&logo=postgresql&logoColor=22272E" />
-  <img height="30em" src="https://img.shields.io/badge/PowerBI-92bcd1?style=for-the-badge&logo=Power%20BI&logoColor=22272E" />
-  <img height="30em" src="https://img.shields.io/badge/Tableau-92bcd1?style=for-the-badge&logo=Tableau&logoColor=22272E" />
-  <img height="30em" src="https://img.shields.io/badge/Pandas-fba8ab?style=for-the-badge&logo=pandas&logoColor=22272E" />
-  <img height="30em" src="https://img.shields.io/badge/Numpy-fba8ab?style=for-the-badge&logo=numpy&logoColor=22272E" />
-  <img height="30em" src="https://img.shields.io/badge/OpenCV-fba8ab?style=for-the-badge&logo=OpenCV&logoColor=22272E" />
-  <img height="30em" src="https://img.shields.io/badge/GIT-f7d2d0?style=for-the-badge&logo=git&logoColor=22272E" />
-</div>
-
-## 📊 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact&bg_color=00000000&title_color=86d9d1&text_color=bfbfbf&hide_border=true&card_width=500px&card_height=400px)
-
-## 📫 How to reach me?
-<a href="mailto:andrieliluci@gmail.com">
-  <img height="30em" src="https://img.shields.io/badge/Gmail-fba8ab?style=for-the-badge&logo=gmail&logoColor=22272E"/> 
-</a>
-<a href="https://www.linkedin.com/in/andrieli-luci/" target="_blank">
-  <img height="30em" src="https://img.shields.io/badge/LinkedIn-fba8ab?style=for-the-badge&logo=linkedin&logoColor=22272E"/>
-</a>
+![C](https://img.shields.io/badge/C-%23e8dc66.svg?logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%23e8dc66.svg?logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/Django-%23e8dc66.svg?logo=django&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%2386d9d1.svg?logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2386d9d1.svg?logo=postgresql&logoColor=black)
+![PowerBI](https://img.shields.io/badge/PowerBI-%2392bcd1.svg?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%2392bcd1.svg?logo=tableau&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23ffaddd.svg?logo=opencv&logoColor=black)
+![PyTesseract](https://img.shields.io/badge/PyTesseract-%23ffaddd.svg?logo=pytesseract&logoColor=black)
