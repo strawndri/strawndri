@@ -3,14 +3,13 @@
 I'm Andrieli Gonçalves, an IT technician and Computer Science student. I love data, math and being curious!
 
 - Computer Science student at UFPR
+- ML/AI development intern at [Kinebot](https://kinebot.com.br/)
 - Undergraduate research student at [CiDAMO](https://github.com/CiDAMO) learning about RAG and LLMs
-- Member of [PET Computação](http://pet.inf.ufpr.br/) (Computer Tutorial Education Program)
-- Leader of the "Computing for Immigrants" project
-- Design Volunteer at the [Maratona Feminina de Programação](https://www.instagram.com/mfp.sbc/) (Women's Programming Marathon)
-- I was a Volunteer Quality Advisor in the [Ecomp](https://ecomp.co/) (Junior Computing Enterprise)
-- I wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
-
-
+- Was a member of [PET Computação](http://pet.inf.ufpr.br/) (Computer Tutorial Education Program)
+- Led the "Computing for Immigrants" project
+- Served as a Design Volunteer at the [Maratona Feminina de Programação](https://www.instagram.com/mfp.sbc/) (Women's Programming Marathon)
+- Worked as a Volunteer Quality Advisor at [Ecomp](https://ecomp.co/) (Junior Computing Enterprise)
+- Wrote an article for [Alura](https://www.alura.com.br/) about [BigQuery](https://www.alura.com.br/artigos/bigquery-para-que-serve-como-utilizar)
 
 ![C](https://img.shields.io/badge/C-%23e8dc66.svg?logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%23e8dc66.svg?logo=python&logoColor=black)
